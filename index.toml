@@ -51,11 +51,6 @@ hash = "5bf5d5fd3ee61dae57ec321ef60921c159ab1afea32db67b097fd42cbddee3cc"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "8f3d5a8b2a39fe8ac2ce04a864a3c0a3346f7787177f5806674d90423c3a8193"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
